@@ -1,2 +1,1 @@
-# apple-clone-website
-A responsive HTML/CSS clone of the 2025 Apple India homepage. Features product banners, grid sections, and a realistic footer, matching apple.com/in. No ads or JavaScript-just modern layout and clean Ul for learning and demo purposes.
+<img width="1350" height="636" alt="image" src="https://github.com/user-attachments/assets/b3db90f5-7daf-484a-944e-44f2c8902a21" />
